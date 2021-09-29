@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MvpApp</string>
+    <string name="login_screen_title">Приветсвуем</string>
+    <string name="login_screen_login_input_title">Логин</string>
+    <string name="login_screen_password_input_title">Пароль</string>
+    <string name="login_screen_login_button_title">Войти</string>
+    <string name="login_screen_sign_in_button_title">Регистрация</string>
+    <string name="login_screen_forgot_password_button_title">Забыли пароль</string>
+    <string name="error_title">Извините, что-то пошло не так</string>
 </resources>
